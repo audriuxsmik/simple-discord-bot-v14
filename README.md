@@ -26,5 +26,5 @@ To get started with the Simple Discord Bot Handler Template, follow these steps:
 1. Clone the repository by downloading it as a ZIP file or running the command `git clone https://github.com/audriuxsmik/Simple-Discord-Bot-Handler-v14`.
 2. Navigate to the template's directory and run the command `npm install` (make sure npm is installed).
 3. Once all the required modules are installed, open the `src/config.js` file and fill in the necessary information.
-4. Run the command `node .` or node `node bot.js` to start the bot.
+4. Run the command `node .` or `node bot.js` to start the bot.
 
