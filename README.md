@@ -8,8 +8,8 @@ The Discord Bot Template provides a solid foundation for creating feature-rich D
 
 ## Features
 
-- Vibrant and well-structured logging system.
-- Tailor the settings to match your preferences.
+- Well-structured logging system.
+- Change the settings to match your preferences.
 - Efficiently handles message commands, buttons, select menus, slash commands, context menus, and modal forms.
 - Comes with a range of standard command options (excluding events).
 - Facilitates the handling of custom events.
